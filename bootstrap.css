@@ -4826,6 +4826,8 @@ a.badge:hover {
 
 .carousel .item > img {
   display: block;
+	margin-left: auto;
+	margin-right: auto;
   line-height: 1;
 }
 
@@ -4874,9 +4876,9 @@ a.badge:hover {
   width: 40px;
   height: 40px;
   margin-top: -20px;
-  font-size: 60px;
-  font-weight: 100;
-  line-height: 30px;
+  font-size: 50px;
+  font-weight: 80;
+  line-height: 40px;
   color: #ffffff;
   text-align: center;
   background: #222222;
